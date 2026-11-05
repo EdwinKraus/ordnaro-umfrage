@@ -34,3 +34,4 @@ Werte vorher in der GitHub-Doku „Managing a custom domain for your GitHub Page
 
 Mit eigener Domain gilt auch `robots.txt` (sperrt alles). Unter `github.io/ordnaro-umfrage/` schützt
 `<meta name="robots" content="noindex">` auf jeder Seite.
+
