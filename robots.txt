@@ -1,0 +1,5 @@
+# Ordnaro-Umfrage: nur über den Link in den Mails erreichbar, nicht indexieren.
+User-agent: *
+Disallow: /umfrage/
+Disallow: /ordnaro-umfrage/
+Disallow: /

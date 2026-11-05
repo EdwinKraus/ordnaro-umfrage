@@ -1,0 +1,395 @@
+{
+ "en": {
+  "branche": {
+   "entry": "entry.602777967",
+   "titel": "Industry",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": true,
+   "optionen": [
+    "Trades",
+    "Retail",
+    "Services",
+    "Property management",
+    "Other"
+   ]
+  },
+  "firmengroesse": {
+   "entry": "entry.523808137",
+   "titel": "Company size (employees)",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": true,
+   "optionen": [
+    "1–9",
+    "10–49",
+    "50–249",
+    "250+"
+   ]
+  },
+  "genutzte_systeme": {
+   "entry": "entry.559096183",
+   "titel": "Which systems do you use today?",
+   "typ": "CHECKBOX",
+   "pflicht": true,
+   "optionen": [
+    "Excel/Google Sheets",
+    "CRM (e.g. Pipedrive, Close, HubSpot)",
+    "Inventory/stock software",
+    "Forms (paper, PDF, Google/Microsoft Forms)",
+    "Industry software",
+    "Accounting",
+    "Other"
+   ]
+  },
+  "groesster_schmerz_system": {
+   "entry": "entry.1513586848",
+   "titel": "Which one annoys you most?",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": true,
+   "optionen": [
+    "Excel/Google Sheets",
+    "CRM (e.g. Pipedrive, Close, HubSpot)",
+    "Inventory/stock software",
+    "Forms (paper, PDF, Google/Microsoft Forms)",
+    "Industry software",
+    "Accounting",
+    "Other"
+   ]
+  },
+  "schmerz_grund": {
+   "entry": "entry.337935700",
+   "titel": "Why? One sentence is enough.",
+   "typ": "PARAGRAPH_TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "zeit_pro_woche": {
+   "entry": "entry.1909373846",
+   "titel": "Time spent on it per week (all people together)",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": false,
+   "optionen": [
+    "< 1 h",
+    "1–3 h",
+    "3–10 h",
+    "> 10 h",
+    "don't know"
+   ]
+  },
+  "kosten_heute": {
+   "entry": "entry.1029576628",
+   "titel": "What do you pay for it per month today (licences, net)?",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": false,
+   "optionen": [
+    "0",
+    "1–49",
+    "50–199",
+    "200–499",
+    "500+",
+    "don't know"
+   ]
+  },
+  "waehrung": {
+   "entry": "entry.387834500",
+   "titel": "Currency for your answers",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": true,
+   "optionen": [
+    "EUR",
+    "GBP",
+    "USD",
+    "CAD",
+    "AUD",
+    "NZD"
+   ]
+  },
+  "vw_zu_billig": {
+   "entry": "entry.1922196524",
+   "titel": "… so cheap you'd doubt the quality?",
+   "typ": "TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "vw_guenstig": {
+   "entry": "entry.1127158141",
+   "titel": "… a good deal?",
+   "typ": "TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "vw_teuer": {
+   "entry": "entry.988624859",
+   "titel": "… expensive, but still worth considering?",
+   "typ": "TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "vw_zu_teuer": {
+   "entry": "entry.658448259",
+   "titel": "… too expensive?",
+   "typ": "TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "wechselbereitschaft": {
+   "entry": "entry.3876860",
+   "titel": "How likely are you to switch?",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": false,
+   "optionen": [
+    "0 – not at all",
+    "1 – maybe some day",
+    "2 – within 6 months",
+    "3 – right away if it fits"
+   ]
+  },
+  "gespraech": {
+   "entry": "entry.1140421607",
+   "titel": "Would you join a 30-minute call?",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": true,
+   "optionen": [
+    "Yes",
+    "No, thanks"
+   ]
+  },
+  "email": {
+   "entry": "entry.841081528",
+   "titel": "If yes: e-mail for scheduling",
+   "typ": "TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "zeitfenster": {
+   "entry": "entry.1994525727",
+   "titel": "Preferred time",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": false,
+   "optionen": [
+    "morning",
+    "afternoon",
+    "evening"
+   ]
+  },
+  "zeitzone": {
+   "entry": "entry.1375760588",
+   "titel": "Your time zone",
+   "typ": "TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "ref_code": {
+   "entry": "entry.1951592729",
+   "titel": "Reference code from your link",
+   "typ": "TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "einwilligung": {
+   "entry": "entry.78563800",
+   "titel": "Consent",
+   "typ": "CHECKBOX",
+   "pflicht": true,
+   "optionen": [
+    "I agree that Edwin Kraus (Ordnaro) stores and analyses my answers for product research and, if I gave my e-mail, contacts me about the call and the launch offer. I can withdraw at any time by e-mail to edwinkraus.assistant@gmail.com. Privacy notice: https://docs.google.com/document/d/e/2PACX-1vRrrrJbN0juuYe0o2kJx48ZjC9YQge8XEPPo3NqjBGaOg0kmTyFFe1Ct-RK3qP9JyPt0pW8tIQtx4hS/pub"
+   ]
+  }
+ },
+ "de": {
+  "branche": {
+   "entry": "entry.1393367965",
+   "titel": "Branche",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": true,
+   "optionen": [
+    "Handwerk",
+    "Handel",
+    "Dienstleister",
+    "Hausverwaltung",
+    "Sonstiges"
+   ]
+  },
+  "firmengroesse": {
+   "entry": "entry.571594389",
+   "titel": "Firmengröße (Mitarbeitende)",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": true,
+   "optionen": [
+    "1–9",
+    "10–49",
+    "50–249",
+    "250+"
+   ]
+  },
+  "genutzte_systeme": {
+   "entry": "entry.852072639",
+   "titel": "Welche Systeme nutzen Sie heute?",
+   "typ": "CHECKBOX",
+   "pflicht": true,
+   "optionen": [
+    "Excel/Google Tabellen",
+    "CRM (z. B. Pipedrive, Close, HubSpot)",
+    "Lager-/Bestandssoftware",
+    "Formulare (Papier, PDF, Google/Microsoft Forms)",
+    "Branchensoftware",
+    "Buchhaltung",
+    "Sonstiges"
+   ]
+  },
+  "groesster_schmerz_system": {
+   "entry": "entry.1461407700",
+   "titel": "Welches davon nervt Sie am meisten?",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": true,
+   "optionen": [
+    "Excel/Google Tabellen",
+    "CRM (z. B. Pipedrive, Close, HubSpot)",
+    "Lager-/Bestandssoftware",
+    "Formulare (Papier, PDF, Google/Microsoft Forms)",
+    "Branchensoftware",
+    "Buchhaltung",
+    "Sonstiges"
+   ]
+  },
+  "schmerz_grund": {
+   "entry": "entry.1634562959",
+   "titel": "Warum? Ein Satz genügt.",
+   "typ": "PARAGRAPH_TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "zeit_pro_woche": {
+   "entry": "entry.1994438835",
+   "titel": "Zeitaufwand pro Woche (alle Personen zusammen)",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": false,
+   "optionen": [
+    "< 1 h",
+    "1–3 h",
+    "3–10 h",
+    "> 10 h",
+    "weiß nicht"
+   ]
+  },
+  "kosten_heute": {
+   "entry": "entry.284995666",
+   "titel": "Was zahlen Sie heute pro Monat dafür (Lizenzen, netto)?",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": false,
+   "optionen": [
+    "0",
+    "1–49",
+    "50–199",
+    "200–499",
+    "500+",
+    "weiß nicht"
+   ]
+  },
+  "waehrung": {
+   "entry": "entry.1685862091",
+   "titel": "Währung für Ihre Angaben",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": true,
+   "optionen": [
+    "EUR",
+    "CHF",
+    "GBP",
+    "USD",
+    "CAD",
+    "AUD",
+    "NZD"
+   ]
+  },
+  "vw_zu_billig": {
+   "entry": "entry.1948305014",
+   "titel": "… so günstig, dass Sie an der Qualität zweifeln?",
+   "typ": "TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "vw_guenstig": {
+   "entry": "entry.90518651",
+   "titel": "… ein gutes Angebot?",
+   "typ": "TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "vw_teuer": {
+   "entry": "entry.836331169",
+   "titel": "… teuer, aber noch eine Überlegung wert?",
+   "typ": "TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "vw_zu_teuer": {
+   "entry": "entry.1558243601",
+   "titel": "… zu teuer?",
+   "typ": "TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "wechselbereitschaft": {
+   "entry": "entry.1785201025",
+   "titel": "Wie wahrscheinlich ist ein Wechsel?",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": false,
+   "optionen": [
+    "0 – gar nicht",
+    "1 – vielleicht irgendwann",
+    "2 – innerhalb von 6 Monaten",
+    "3 – sofort, wenn es passt"
+   ]
+  },
+  "gespraech": {
+   "entry": "entry.902825334",
+   "titel": "Hätten Sie Zeit für ein 30-Minuten-Gespräch?",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": true,
+   "optionen": [
+    "Ja",
+    "Nein, danke"
+   ]
+  },
+  "email": {
+   "entry": "entry.1833661798",
+   "titel": "Wenn ja: E-Mail für die Terminabsprache",
+   "typ": "TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "zeitfenster": {
+   "entry": "entry.1469538742",
+   "titel": "Bevorzugte Zeit",
+   "typ": "MULTIPLE_CHOICE",
+   "pflicht": false,
+   "optionen": [
+    "vormittags",
+    "nachmittags",
+    "abends"
+   ]
+  },
+  "zeitzone": {
+   "entry": "entry.1084362280",
+   "titel": "Ihre Zeitzone",
+   "typ": "TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "ref_code": {
+   "entry": "entry.674227053",
+   "titel": "Referenzcode aus Ihrem Link",
+   "typ": "TEXT",
+   "pflicht": false,
+   "optionen": []
+  },
+  "einwilligung": {
+   "entry": "entry.2107052636",
+   "titel": "Einwilligung",
+   "typ": "CHECKBOX",
+   "pflicht": true,
+   "optionen": [
+    "Ich bin einverstanden, dass Edwin Kraus (Ordnaro) meine Antworten zur Produktforschung speichert und auswertet und mich, falls ich meine E-Mail angegeben habe, wegen des Gesprächs und des Startangebots kontaktiert. Ich kann jederzeit per E-Mail an edwinkraus.assistant@gmail.com widerrufen. Datenschutzhinweise: https://docs.google.com/document/d/e/2PACX-1vSxk0N1u5WH8fupFHFZEQr7bBFLlmccgBCTZ91G2EkAqjNIK7x14J9TQ-QaR-AIBLbM0g2fXtzVaJHF/pub"
+   ]
+  }
+ }
+}
